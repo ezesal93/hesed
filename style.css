@@ -396,6 +396,10 @@ h3 {
     margin-top: 1em;
 }
 
+.img-profesional img{
+    border-radius: 1em;
+}
+
 .descripcion-profesional{
     margin-left: 2em;
     text-align: justify;
