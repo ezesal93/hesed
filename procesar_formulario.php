@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     mail($destinatario, $asunto, $mensaje, $cabeceras);
     
     // Redirige de vuelta a la página de contacto
-    header("https://endearing-gingersnap-249bd9.netlify.app/"); // Reemplaza con la URL de tu página de contacto
+    header("https://github.com/ezesal93/hesed/blob/main/procesar_formulario.php"); // Reemplaza con la URL de tu página de contacto
     exit;
 }
 ?>
