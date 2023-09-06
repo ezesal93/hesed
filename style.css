@@ -450,6 +450,11 @@ h3 {
     background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
 }
 
+.banner-especialistas h2{
+    color: #FFFFFF;
+    font-size: 2.5em;
+}
+
 
 .profesionales{
     display: flex;
