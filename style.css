@@ -439,7 +439,7 @@ h3 {
     align-items: center; /* Centra verticalmente */
     min-height: 60vh;
     margin-bottom: 2em;
-    background-image: url(imagenes-contenido/especialistas1.jpg);
+    background-image: linear-gradient(to right, rgb(0 0 0 /.5), rgb(0 0 0 /.3)), url("imagenes-contenido/especialistas1.jpg");
     /* Añade otras propiedades relacionadas con el fondo si es necesario */
     background-size: cover; /* Controla el tamaño de la imagen de fondo */
     background-position: center center; /* Controla la posición de la imagen de fondo */
