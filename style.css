@@ -283,6 +283,11 @@ input[type="submit"]:hover {
     justify-content: center;
 }
 
+.menu-footer a{
+    text-decoration: none;
+    color: #FFFFFF;  
+}
+
 h6{
         text-align: center;
         color: #FFFFFF;
